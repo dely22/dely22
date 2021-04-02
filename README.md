@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @dely22
+- 👋 Hi, I’m hadeel
 - 👀 I’m interested in web programming and its applications.
 - 🌱 I’m currently learning  Artificial Intelligence.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me almktaryh@gmail.com
 
 <!---
