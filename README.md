@@ -12,11 +12,11 @@
 
 - ⚡ I’m currently working on **my technical skills.**
 
-- 🌱 I’m currently learning **tailwind.**
+- 🌱 I’m currently learning **React.js.**
 
 - 🤝 I’m looking to collaborate on **any web project.**
 
-- 📫 How to reach me **almktaryh@gmail.com**
+- 📫 How to reach me **hadeeljameel023@gmail.com**
 
 
 <h3 align="left">Languages and Tools:<br></h3>
